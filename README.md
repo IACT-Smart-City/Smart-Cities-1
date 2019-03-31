@@ -2,3 +2,6 @@
 
 ## ABSTRACT
 The Internet of Things (IoT) is predicted to become the biggest technological revolution in history, even surpassing the expansion of computers in terms of number of devices. It is therefore a predictable consequence that such domain has a significant amount of attention amongst academic researchers and industrials. Modern cities need to be able to provide automatic urban services, that are no longer achievable by humans due to overly dense population. IoT systems are capable of integrating a great amount of heterogeneous devices and providing relevant data to any application. Therefore, the idea of IoT-based Smart City is being rapidly and thoroughly studied to provide better urban services. This paper will focus on highlighting the similarities and differences between several of the most popular visions of the IoT Smart City environments. Predominant factors such as integration of heterogeneous devices, and implementation of efficient middleware are common challenges faced by all IoT Smart Cities. The paper will therefore present a comprehensive overview of those challenges, and discuss existing approaches to overcome them.
+
+### Full-text version available
+[Major challenges of Smart Cities based on the Internet of Things paradigm : A Survey](https://github.com/Laymer/Smart-Cities/blob/master/SmartCitiesSurvey.pdf)
